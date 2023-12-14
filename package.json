@@ -1,5 +1,5 @@
 {
-  "name": "cortex-ui-legacy",
+  "name": "@cortexcloud/cortex-ui-legacy",
   "version": "1.0.73",
   "description": "Web Components base on Cortex-UI Design System. These Components is Lagacy version but can use for production.",
   "main": "index.js",
@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Punyarit/cortex-ui-legacy.git"
+    "url": "https://github.com/cortexcloud/cortex-ui-legacy.git"
   },
   "keywords": [
     "Cortex-UI Basic"
   ],
   "author": {
-    "name": "Punyarit"
+    "name": "Cortex-UI Team"
   },
   "license": "H Lab Co., Ltd."
 }
